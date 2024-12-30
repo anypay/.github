@@ -23,16 +23,3 @@ Here's a sneak peek into some of our key projects:
 ### Join Us! 👐
 
 Are you ready to revolutionize payments with us? Whether you're a developer, a business owner, or just crypto-curious, there's a place for you in our community. Check out our repositories, contribute, or just say hi in our discussions. Let's make payments in the Web3 space accessible and efficient for everyone! 🌍
-
-### Contact & Support 📬
-
-Need help or want to get in touch? Reach out to us through our website or directly on GitHub. We're here to assist, collaborate, or just chat about the future of payments.
-
----
-
-**Follow Us** 🌠
-
-- [Website](https://www.anypayx.com)
-- [Twitter](https://twitter.com/xanypay)
-
-**Let's innovate together!** 🚀
