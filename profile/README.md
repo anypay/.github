@@ -3,8 +3,6 @@
   <img src="https://bico.media/4bd0680e7545a42d76bb92c83415659cc6d66aae15d9f264062efc0cd7d1972e" alt="Anypay Logo" width="200">
 </p>
 
-### About Us 👋
-
 Welcome to **Anypay**, your go-to for seamless Bitcoin & Stablecoin payments tailored for businesses. We're here to make your payment experience as smooth as butter 🧈, ensuring you can focus on what you do best while we handle the transactions.
 
 ### What We Offer 🌐
